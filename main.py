@@ -6,7 +6,7 @@ import telebot
 import pars as pr
 
 set_printoptions(precision=2)
-token = "6120850853:AAFPOPyMhUSgBfwx1mUEwm7hb3b9K6BXL5A"
+token = "мой токен"
 b = telebot.TeleBot(token)
 Flag = True
 bo = bt.simp_bot()#объект моего бота
